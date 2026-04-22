@@ -49,7 +49,7 @@ https://www.kaggle.com/datasets/crepantherx/employees
 
 ### 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+[Dashboard](https://github.com/simarjotkaur2505/employee-insights-dashboard/blob/main/Employee%20Insights%20Dashboard.png)
 
 ---
 
